@@ -1,7 +1,7 @@
 # Newsletter Signup | devChallenges
 
 <p align="center">
-  <a href="https://your-live-demo.link">Live Demo</a> &#124; 
+  <a href="https://newsletter-join.netlify.app/">Live Demo</a> &#124; 
   <a href="https://devchallenges.io/challenge/join-our-newsletter">Challenge</a>
 </p>
 
